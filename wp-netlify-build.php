@@ -9,7 +9,7 @@
  *
  * @wordpress-plugin
  * Plugin Name: 	WP Netlify Build
- * Plugin URI: 		TBA
+ * Plugin URI: 		https://github.com:daviddeejjames/wp-netlify-build
  * Description: 	Will trigger a given Netlify Build via the Netlify API site key.
  * Version: 0.0.1
  * Author: 			David James
