@@ -1,0 +1,9 @@
+# Basic GitIgnore
+*.zip
+*.log
+*.env
+*.tar
+*.tar.gz
+error_log
+node_modules/
+npm_logs
